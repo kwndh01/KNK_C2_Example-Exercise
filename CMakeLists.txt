@@ -4,4 +4,4 @@ project(KNK_C2_Example_Exercise C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(KNK_C2_Example_Exercise
-        2_c_fundamentals/dweight2.c)
+        2_c_fundamentals/programming_projects_8.c)

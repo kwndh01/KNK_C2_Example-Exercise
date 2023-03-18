@@ -1,7 +1,21 @@
 # ninja log v5
 1	81	7008316924968831	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/pun.c.obj	c4cc5dd2c0dc319
-2	159	7008333705364275	build.ninja	9f2204e6e1dc139
-2	123	7008319922974155	KNK_C2_Example_Exercise.exe	bf811ddaeefcaf46
-1	79	7008319429957555	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/dweight.c.obj	211f47dd69bf3879
+1	173	7008411715052353	build.ninja	9f2204e6e1dc139
+75	198	7008388319786803	KNK_C2_Example_Exercise.exe	ec2c28ac7290c1e1
 1	78	7008333773397604	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/dweight2.c.obj	8c662f8c2b1db2b1
-80	212	7008333774687886	KNK_C2_Example_Exercise.exe	ef21e6e4b092c60e
+1	79	7008319429957555	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/dweight.c.obj	211f47dd69bf3879
+0	105	7008341188526130	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/celsius.c.obj	a9c3241a9469894c
+0	77	7008356499834077	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_1.c.obj	d812a01c37086a17
+0	73	7008359691887682	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_2.c.obj	1e6e553a86150f83
+2	78	7008363600111334	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_3.c.obj	cd0e62e49bf0efe1
+2	79	7008366713305506	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_4.c.obj	ddd01421cf20bd3a
+1	76	7008369304862707	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_5.c.obj	42d18ac74c97a4b7
+0	79	7008384047339490	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_6.c.obj	f18bb64ea5d73964
+1	74	7008388318606541	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_7.c.obj	d3fbc8b19155341e
+1	168	7008411715052353	build.ninja	9f2204e6e1dc139
+0	76	7008411914251038	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_8.c.obj	277e484647f4b9d4
+76	206	7008411915506993	KNK_C2_Example_Exercise.exe	ec907f1121a7c0bf
+2	76	7008413502974260	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_8.c.obj	277e484647f4b9d4
+76	200	7008413504169582	KNK_C2_Example_Exercise.exe	ec907f1121a7c0bf
+2	75	7008414116648014	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/programming_projects_8.c.obj	277e484647f4b9d4
+75	197	7008414117823326	KNK_C2_Example_Exercise.exe	ec907f1121a7c0bf
