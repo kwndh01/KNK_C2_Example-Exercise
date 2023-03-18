@@ -1,0 +1,3 @@
+C:/Users/airfl/Documents/GitHub/KNK_C2_Example-Exercise/cmake-build-debug/CMakeFiles/KNK_C2_Example_Exercise.dir
+C:/Users/airfl/Documents/GitHub/KNK_C2_Example-Exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/airfl/Documents/GitHub/KNK_C2_Example-Exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

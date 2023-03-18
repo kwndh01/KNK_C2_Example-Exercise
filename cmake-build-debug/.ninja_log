@@ -1,0 +1,7 @@
+# ninja log v5
+1	81	7008316924968831	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/pun.c.obj	c4cc5dd2c0dc319
+2	159	7008333705364275	build.ninja	9f2204e6e1dc139
+2	123	7008319922974155	KNK_C2_Example_Exercise.exe	bf811ddaeefcaf46
+1	79	7008319429957555	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/dweight.c.obj	211f47dd69bf3879
+1	78	7008333773397604	CMakeFiles/KNK_C2_Example_Exercise.dir/2_c_fundamentals/dweight2.c.obj	8c662f8c2b1db2b1
+80	212	7008333774687886	KNK_C2_Example_Exercise.exe	ef21e6e4b092c60e
